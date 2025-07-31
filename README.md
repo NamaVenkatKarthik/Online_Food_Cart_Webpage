@@ -29,6 +29,7 @@ An elegant and modern food ordering landing page designed for home-made food sta
 
 
 🛠 Tech Stack
+
 Technology	                   Purpose
 HTML5	                       Page structure
 CSS3	                       Styling, animations, responsive
@@ -38,6 +39,7 @@ Google Fonts (Open Sans)	   Font styling
 
 
 📁 Folder Structure
+
 ├── index.html
 ├── style.css
 ├── script.js
@@ -48,6 +50,7 @@ Google Fonts (Open Sans)	   Font styling
 
 
 🚀 Getting Started
+
 You can preview the site locally:
 1. Clone the repo or download the folder
 2. Open index.html in your browser
