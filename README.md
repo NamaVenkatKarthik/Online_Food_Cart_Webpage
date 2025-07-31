@@ -3,13 +3,13 @@ This can be used as the online food cart where the people can able to search the
 
 
 
-🍽 Online Food Cart Webpage
+**🍽 Online Food Cart Webpage**
 
 An elegant and modern food ordering landing page designed for home-made food startups, cloud kitchens, and local restaurants. The page offers a seamless UI/UX with features like menu listing, popular items carousel, dish search, request form, and add-to-cart functionality — ideal for scaling a food delivery business.
 
 
 
-✨ Features
+**✨ Features**
 
 ✅ Hero Section with bold branding and food search
 
@@ -33,9 +33,9 @@ An elegant and modern food ordering landing page designed for home-made food sta
 
 
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
-Technology	                   Purpose
+**Technology	                   Purpose**
 
 HTML5	                       Page structure
 CSS3	                       Styling, animations, responsive
@@ -45,19 +45,25 @@ Google Fonts (Open Sans)	   Font styling
 
 
 
-📁 Folder Structure
+**📁 Folder Structure**
 
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── assets/
+
 │   ├── images/
+
 │   ├── videos/
+
 │   └── icons/
 
 
 
-🚀 Getting Started
+**🚀 Getting Started**
 
 You can preview the site locally:
 
@@ -72,7 +78,7 @@ SwiperJS CDN
 Google Fonts (Open Sans)
 
 
-💡 Future Scope
+**💡 Future Scope**
 
 User login system
 
