@@ -48,17 +48,11 @@ Google Fonts (Open Sans)	   Font styling
 📁 Folder Structure
 
 ├── index.html
-
 ├── style.css
-
 ├── script.js
-
 ├── assets/
-
 │   ├── images/
-
 │   ├── videos/
-
 │   └── icons/
 
 
@@ -79,6 +73,9 @@ Google Fonts (Open Sans)
 
 
 💡 Future Scope
+
 User login system
+
 Backend cart with localStorage or Firebase
+
 Order tracking and rating system
