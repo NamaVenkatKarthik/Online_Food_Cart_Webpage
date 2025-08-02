@@ -8,28 +8,26 @@ This can be used as the online food cart where the people can able to search the
 An elegant and modern food ordering landing page designed for home-made food startups, cloud kitchens, and local restaurants. The page offers a seamless UI/UX with features like menu listing, popular items carousel, dish search, request form, and add-to-cart functionality — ideal for scaling a food delivery business.
 
 
+## 🛠 Built With
+- HTML5 (Semantic Tags)
+- CSS3 (Flexbox, Grid, Media Queries)
+- JavaScript (DOM Manipulation)
+- SwiperJS
 
-**✨ Features**
 
-✅ Hero Section with bold branding and food search
+## 🔧 Basic Features
+- Responsive layout for mobile and desktop
+- Hero section with search bar
+- Home Kitchen grid layout with food cards
+- Footer with contact info and social links
 
-✅ Home Kitchen Menu Grid with ratings, delivery time, discounts, and add-to-cart buttons
-
-✅ Popular Items Carousel using SwiperJS with navigation arrows
-
-✅ Custom Promo Video Section with split color background and centered video
-
-✅ Dish Request Modal for users to request custom food
-
-✅ Search Functionality by food name
-
-✅ Add-to-Cart Logic with quantity updates
-
-✅ Contact Form with client-side validation
-
-✅ Mobile Responsive Design (320px and above)
-
-✅ Lazy-loading images and accessibility best practices
+## 🧠 Advanced Features
+- SwiperJS-based "Popular Items" carousel
+- Search filtering functionality
+- Add to Cart with quantity updates
+- Modal popup to request a custom dish
+- Lazy-loaded images for performance
+- Promo video section with custom play button
 
 
 
