@@ -8,6 +8,15 @@ This can be used as the online food cart where the people can able to search the
 An elegant and modern food ordering landing page designed for home-made food startups, cloud kitchens, and local restaurants. The page offers a seamless UI/UX with features like menu listing, popular items carousel, dish search, request form, and add-to-cart functionality — ideal for scaling a food delivery business.
 
 
+## 🔗 Live Demo
+
+🚀 [Click here to view the live site]
+
+(https://github.com/NamaVenkatKarthik/Online_Food_Cart_Webpage/)
+
+(https://online-food-card.netlify.app/ )
+
+
 ## 🛠 Built With
 - HTML5 (Semantic Tags)
 - CSS3 (Flexbox, Grid, Media Queries)
@@ -30,7 +39,6 @@ An elegant and modern food ordering landing page designed for home-made food sta
 - Promo video section with custom play button
 
 
-
 **🛠 Tech Stack**
 
 **Technology	                   Purpose**
@@ -42,24 +50,16 @@ SwiperJS	                   Carousel (Popular Items section)
 Google Fonts (Open Sans)	   Font styling
 
 
-
 **📁 Folder Structure**
 
 ├── index.html
-
 ├── style.css
-
 ├── script.js
-
 ├── assets/
-
 │   ├── images/
-
 │   ├── videos/
-
 │   └── icons/
-
-
+ 
 
 **🚀 Getting Started**
 
