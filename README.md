@@ -25,18 +25,20 @@ An elegant and modern food ordering landing page designed for home-made food sta
 
 
 ## 🔧 Basic Features
-- Responsive layout for mobile and desktop
-- Hero section with search bar
-- Home Kitchen grid layout with food cards
-- Footer with contact info and social links
+- ✅ Responsive layout (mobile, tablet, desktop)
+- ✅ Hero section with search bar
+- ✅ Grid-based *Home Kitchen* menu cards
+- ✅ Footer with contact form & social icons
+
 
 ## 🧠 Advanced Features
-- SwiperJS-based "Popular Items" carousel
-- Search filtering functionality
-- Add to Cart with quantity updates
-- Modal popup to request a custom dish
-- Lazy-loaded images for performance
-- Promo video section with custom play button
+- 🚀 SwiperJS *carousel* for “Popular Items”
+- 🔍 Real-time *search filter* for food items
+- ➕ *Add to Cart* system with quantity handling
+- 📝 “Request a Dish” modal with form validation
+- 🎥 Video section with custom play/pause overlay
+- 🖼 *Lazy loading* for images (performance boost)
+- 📦 Clean folder structure for easy maintenance
 
 
 **🛠 Tech Stack**
@@ -52,13 +54,7 @@ Google Fonts (Open Sans)	   Font styling
 
 **📁 Folder Structure**
 
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   ├── videos/
-│   └── icons/
+├── index.html ├── style.css ├── script.js ├── assets/ │   ├── images/ │   ├── videos/ │   └── icons/
  
 
 **🚀 Getting Started**
