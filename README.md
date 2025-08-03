@@ -54,7 +54,13 @@ Google Fonts (Open Sans)	   Font styling
 
 **📁 Folder Structure**
 
-├── index.html ├── style.css ├── script.js ├── assets/ │   ├── images/ │   ├── videos/ │   └── icons/
+├── index.html 
+├── style.css 
+├── script.js 
+├── assets/ 
+│   ├── images/
+│   ├── videos/ 
+│   └── icons/
  
 
 **🚀 Getting Started**
