@@ -69,6 +69,7 @@ Google Fonts (Open Sans)	   Font styling
 │   └── icons/
  
 
+
 **🚀 Getting Started**
 
 You can preview the site locally:
